@@ -1,8 +1,8 @@
 [
   {
-    "repository": "AICP/device_xiaomi_sdm845-common",
+    "repository": "cosp-devices/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
-    "branch": "p9.0"
+    "branch": "master"
   },
   {
     "repository": "LineageOS/android_hardware_qcom_fm",
